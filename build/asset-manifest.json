@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ziaportal/static/css/main.26ac8995.css",
+    "main.js": "/ziaportal/static/js/main.e78bf345.js",
+    "static/js/787.5b89797a.chunk.js": "/ziaportal/static/js/787.5b89797a.chunk.js",
+    "static/media/designuiux.png": "/ziaportal/static/media/designuiux.93ac89d16c561febf9f8.png",
+    "static/media/Agile.png": "/ziaportal/static/media/Agile.3d9f05c1f77164c7988a.png",
+    "static/media/seo.png": "/ziaportal/static/media/seo.31c5578d45aa6fb27867.png",
+    "static/media/SAMROZ.png": "/ziaportal/static/media/SAMROZ.d497e982e4fe5b6bad21.png",
+    "static/media/develop-right.png": "/ziaportal/static/media/develop-right.54b40253f89458c12431.png",
+    "static/media/1BNANne.png": "/ziaportal/static/media/1BNANne.e94ce66efa16273082d8.png",
+    "static/media/BE.png": "/ziaportal/static/media/BE.bc692c78f7d87e981968.png",
+    "static/media/bANner.png": "/ziaportal/static/media/bANner.77845ff13666e7cf599f.png",
+    "static/media/seoup.png": "/ziaportal/static/media/seoup.9e30eb27c7788b546ef1.png",
+    "static/media/logo-php.png": "/ziaportal/static/media/logo-php.aae4b8d896bf64a6ef12.png",
+    "static/media/MongoDB.png": "/ziaportal/static/media/MongoDB.77be167f9fca46e8c96f.png",
+    "static/media/develop-left.png": "/ziaportal/static/media/develop-left.157d3c6ee0af815e64b0.png",
+    "static/media/MySQL.png": "/ziaportal/static/media/MySQL.8d36d77458f77d3e7730.png",
+    "static/media/weBone.png": "/ziaportal/static/media/weBone.7ee27c16b36d8d9dc096.png",
+    "static/media/uiux.png": "/ziaportal/static/media/uiux.cfc1310089b5b2da54c2.png",
+    "static/media/UI&UX.png": "/ziaportal/static/media/UI&UX.ef3d9a340dc03dee8b9c.png",
+    "static/media/SHOPIFY&WORDPRES.png": "/ziaportal/static/media/SHOPIFY&WORDPRES.043eff0240fc8915121d.png",
+    "static/media/HTML5_logo.png": "/ziaportal/static/media/HTML5_logo.45166b005ae53589d8a3.png",
+    "index.html": "/ziaportal/index.html",
+    "main.26ac8995.css.map": "/ziaportal/static/css/main.26ac8995.css.map",
+    "main.e78bf345.js.map": "/ziaportal/static/js/main.e78bf345.js.map",
+    "787.5b89797a.chunk.js.map": "/ziaportal/static/js/787.5b89797a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ac8995.css",
+    "static/js/main.e78bf345.js"
+  ]
+}
