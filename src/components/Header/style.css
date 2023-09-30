@@ -1,0 +1,45 @@
+.logomaker {
+    width: 25%;
+    text-align: center;
+}
+.link-section {
+    width: 80%;
+    align-items: center;
+}
+.CONTACT-FORM {
+    width: 15%;
+    text-align: center;
+}
+nav.navbar.navbar-expand-md.navbar-light {
+    box-shadow: 0px 1px 10PX #888888;
+    POSITION: fixed;
+    width: 100%;
+    background-color: white;
+}
+.CONTACT-FORM button {
+    background-color: #1973ba;
+    color: white;
+    FONT-SIZE: 16PX;
+    FONT-WEIGHT: 400;
+    FONT-FAMILY: UI-SANS-SERIF;
+}
+.CONTACT-FORM button:hover {
+    background-color: #5ea237;
+    
+    color: white;
+}
+.link-section UL {
+    FONT-SIZE: 20PX;
+    FONT-WEIGHT: 400;
+    FONT-FAMILY: UI-SANS-SERIF;
+    TEXT-DECORATION: double;
+    TEXT-TRANSFORM: uppercase;
+}
+button.dropdown-toggle.btn.btn-secondary {
+    BACKGROUND-COLOR: white !important ;
+    COLOR: #595959 !important;
+    BORDER: 1PX SOLID #ffffff !important;
+    FONT-SIZE: 20PX !important;
+    FONT-FAMILY: LATO;
+    text-transform: uppercase;
+}
