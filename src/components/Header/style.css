@@ -12,7 +12,7 @@
 }
 nav.navbar.navbar-expand-md.navbar-light {
     box-shadow: 0px 1px 10PX #888888;
-    POSITION: fixed;
+    /* POSITION: fixed; */
     width: 100%;
     background-color: white;
 }
@@ -39,7 +39,7 @@ button.dropdown-toggle.btn.btn-secondary {
     BACKGROUND-COLOR: white !important ;
     COLOR: #595959 !important;
     BORDER: 1PX SOLID #ffffff !important;
-    FONT-SIZE: 20PX !important;
+    FONT-SIZE: 16PX !important;
     FONT-FAMILY: LATO;
     text-transform: uppercase;
 }

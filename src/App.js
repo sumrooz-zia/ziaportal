@@ -6,6 +6,10 @@ import Footer from './components/Footer'
 import Home from "./components/Home";
 import Pricing from './components/Pricing'
 import Development from "./components/Development";
+import Uiux from "./components/Uiux";
+import Homedream from "./components/Homedream/home";
+
+
 function App() {
   return (
     <div className="App">
@@ -13,9 +17,13 @@ function App() {
      <Header />
      <Routes>
 
-      <Route path="/" element={<Home/>}/>
+      <Route path="/" element={<Homedream/>}/>
       <Route path="/pricing" element={<Pricing/>}/>
 <Route path="/development" element= {<Development/>}/>
+<Route path="/Uiux" element= {<Uiux/>}/>
+<Route path="/Homedream" element= {<Homedream/>}/>
+
+
      </Routes>
      <Footer />
 

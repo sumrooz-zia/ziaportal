@@ -106,6 +106,8 @@ Our hourly price starts from SEK 399 (excl. VAT).</p>
         </div>
 
         <div className='projec'>
+        <h2>Services</h2>
+
           <Row >
             <Col xs={12} md={6} lg={3} >
               <div className='satiSFY'>

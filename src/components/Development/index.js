@@ -87,7 +87,7 @@ export default class Development extends React.Component {
 
 
         <Container>
-          <div className='hOmebACk'>
+          <div className='createquality'>
 
             <Row>
               <Col xs={12} md={6} lg={2}>

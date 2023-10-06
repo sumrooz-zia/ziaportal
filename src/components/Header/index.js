@@ -15,7 +15,7 @@ import {
 import { Link } from 'react-router-dom';
 
 import './style.css';
-import LOGO from '../../images/LOGO.png';
+import LOGO from '../../images/Looogo.png';
 import linkin from '../../images/linkdin.png';
 import face from '../../images/face.png';
 import intgram from '../../images/instgram.jpeg';
@@ -62,6 +62,15 @@ export default class Header extends React.Component {
                   <NavLink href="/">Home</NavLink>
                 </NavItem>
                 <NavItem>
+                  <NavLink href="/">About</NavLink>
+                </NavItem>
+                <NavItem>
+                  <NavLink href="/">Gallery
+
+ </NavLink>
+                </NavItem>
+
+                <NavItem>
                   <NavLink href="/Pricing">Pricing</NavLink>
                 </NavItem>
                 <div className='dropbtn'>
@@ -74,7 +83,7 @@ export default class Header extends React.Component {
              <NavLink href="/Development">web Development</NavLink>
 </DropdownItem>
           <DropdownItem disabled><NavLink href="/Development">  Ecommerence-$ shopify</NavLink></DropdownItem>
-          <DropdownItem><NavLink href="/Development">UIUX Design</NavLink></DropdownItem>
+          <DropdownItem><NavLink href="/Uiux">UIUX Design</NavLink></DropdownItem>
           <DropdownItem divider />
           <DropdownItem><NavLink href="/Development">web Development</NavLink></DropdownItem>
         </DropdownMenu>
@@ -93,7 +102,7 @@ export default class Header extends React.Component {
             <ButtonDropdown isOpen={this.state.dropdownOpen} toggle={this.toggle}>
         <DropdownToggle caret>
         <img src={FLAG} width={40} height={24} alt="LOGO-3@3x.png" className="LOGimg" /> 
-        SWEDISH
+        Swedish
         </DropdownToggle>
         <DropdownMenu>
           <DropdownItem header>USA</DropdownItem>
@@ -101,6 +110,7 @@ export default class Header extends React.Component {
       </ButtonDropdown>
       
             <div className='CONTACT-FORM'>
+              
             <a href="/Home"> 
           <img src={linkin} width={30} height={30}  alt="LOGO-3@3x.png" className="LOGimg" />
            </a>

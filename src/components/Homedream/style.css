@@ -1,0 +1,43 @@
+/* .slidermain {
+    padding-top: 77Px;
+} */
+.WebDevelopment h1 {
+    COLOR: #FFf;
+}.WebDevelopment p {
+    COLOR: #FfF;
+}
+.carousel-caption {
+    background-color: #43407e7a !important;
+}
+@media only screen and (max-width: 460px) {
+    .slidermain {
+        padding-top: 69Px;
+    }
+    .carousel-caption h1 {
+        font-size: 26PX;
+        font-weight: 700;
+        WIDTH: 100%;
+    }
+    .carousel-caption {
+        position: absolute;
+        right: 5% !important; 
+        bottom: 1.25rem;
+        left: 5% !important;
+        padding-top: 1.25rem;
+        padding-bottom: 3.25rem !important;
+        color: #ffF !important;
+        text-align: center;
+        background-color: #43407e7a !important;
+    }
+    img.card-img-top {
+        height: 300px;
+    }
+    .WebDevelopment P {
+        font-size: 15px;
+        width: 100%;
+        color: white;
+    }
+    .WebDevelopment h1 {
+        color: white;
+    }
+}
